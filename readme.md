@@ -1,8 +1,8 @@
-# AI Website Builder Documentation
+# WebMind AI
 
 ## Project Overview
 
-AI Website Builder is a full-stack application that allows users to generate and customize complete websites using artificial intelligence. The application consists of:
+ WebMind AI is a full-stack application that allows users to generate and customize complete websites using artificial intelligence. The application consists of:
 
 1. **Backend API**: Node.js/Express server with Together AI integration
 2. **Frontend UI**: React/TypeScript application with GrapesJS for visual website editing
